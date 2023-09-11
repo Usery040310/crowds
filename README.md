@@ -51,7 +51,7 @@ so that others know you're working on it!]**
 [简体中文](http://ncase.me/crowds/zh-CN.html) .
 [繁體中文](http://ncase.me/crowds/zh-TW.html) .
 [日本語](http://ncase.me/crowds/ja.html) .
-[Español (Mexicano)](http://ncase.me/crowds/es-MX.html) .
+[Español (Latinoamericano)](http://ncase.me/crowds/es-MX.html) .
 [Čeština](http://ncase.me/crowds/cs.html) .
 [Nederlands](http://ncase.me/crowds/nl.html) .
 [فارسی](https://ncase.me/crowds/fa.html) .
